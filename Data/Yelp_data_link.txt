@@ -1,0 +1,9 @@
+Sourced our data from the Yelp dataset, https://www.yelp.com/dataset. Specifically, we selected three datasets for analysis:
+
+'yelp_academic_dataset_business.json'
+
+'yelp_academic_dataset_review.json'
+
+'yelp_academic_dataset_tip.json'
+
+These datasets were downloaded from https://www.kaggle.com/datasets/yelp-dataset/yelp-dataset.
