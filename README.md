@@ -1,4 +1,4 @@
-## Yelp-Dataset-Analysis-and-Prediction
+## Yelp-Dataset-Challenges-Analysis-and-Prediction
 Our project aimed to predict business attributes and detect fake reviews on Yelp using machine learning. For our analysis, we sourced our data from the Yelp dataset, which can be found at https://www.yelp.com/dataset. Specifically, we selected three datasets for analysis: 
 
 
